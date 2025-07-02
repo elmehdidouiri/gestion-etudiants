@@ -11,7 +11,6 @@ import { addGrade, updateGrade, deleteGrade } from "../services/gradeService";
 import { toast } from "react-toastify";
 import { getSchedule } from "../services/scheduleService";
 import { ScheduleEntry } from "../types/ScheduleEntry";
-import { getPayments } from "../services/financeService";
 import { Payment } from "../types/Payment";
 
 const subjects = ["Mathématiques", "Français", "Histoire", "SVT", "Anglais"];
@@ -27,7 +26,6 @@ const AdminGrades: React.FC = () => {
   const [deleteId, setDeleteId] = useState<string | null>(null);
   const [expandedClass, setExpandedClass] = useState<string | null>(null);
   const [schedule, setSchedule] = useState<ScheduleEntry[]>([]);
-  const [payments, setPayments] = useState<Payment[]>([]);
 
   const refresh = () => {
     Promise.all([getGrades(), getStudents()]).then(([g, s]) => {
@@ -39,7 +37,6 @@ const AdminGrades: React.FC = () => {
   useEffect(() => {
     refresh();
     getSchedule().then(setSchedule);
-    getPayments().then(setPayments);
   }, []);
 
   const handleAdd = async (data: Omit<Grade, "id">) => {

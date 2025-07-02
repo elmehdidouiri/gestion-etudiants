@@ -6,7 +6,7 @@ import { Student } from "../types/Student";
 import { Absence } from "../types/Absence";
 import { Bar, Pie } from "react-chartjs-2";
 import { Chart, BarElement, CategoryScale, LinearScale, Tooltip, Legend, ArcElement } from "chart.js";
-import { UsersIcon, CurrencyDollarIcon, ExclamationTriangleIcon, ClockIcon, AcademicCapIcon, EnvelopeIcon, CalendarDaysIcon } from "@heroicons/react/24/solid";
+import { UsersIcon, CurrencyDollarIcon, ExclamationTriangleIcon, ClockIcon, AcademicCapIcon, CalendarDaysIcon } from "@heroicons/react/24/solid";
 
 Chart.register(BarElement, CategoryScale, LinearScale, Tooltip, Legend, ArcElement);
 
