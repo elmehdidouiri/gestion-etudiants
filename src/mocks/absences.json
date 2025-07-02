@@ -1,0 +1,402 @@
+[
+  {
+    "id": "a1",
+    "studentId": "1",
+    "date": "2024-05-01",
+    "type": "absence",
+    "justified": false,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a2",
+    "studentId": "2",
+    "date": "2024-05-02",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a3",
+    "studentId": "3",
+    "date": "2024-05-03",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a4",
+    "studentId": "4",
+    "date": "2024-05-04",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a5",
+    "studentId": "5",
+    "date": "2024-05-05",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a6",
+    "studentId": "6",
+    "date": "2024-05-06",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a7",
+    "studentId": "7",
+    "date": "2024-05-07",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a8",
+    "studentId": "8",
+    "date": "2024-05-08",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a9",
+    "studentId": "9",
+    "date": "2024-05-09",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a10",
+    "studentId": "10",
+    "date": "2024-05-10",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a11",
+    "studentId": "11",
+    "date": "2024-05-11",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a12",
+    "studentId": "12",
+    "date": "2024-05-12",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a13",
+    "studentId": "13",
+    "date": "2024-05-13",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a14",
+    "studentId": "14",
+    "date": "2024-05-14",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a15",
+    "studentId": "15",
+    "date": "2024-05-15",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a16",
+    "studentId": "16",
+    "date": "2024-05-16",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a17",
+    "studentId": "17",
+    "date": "2024-05-17",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a18",
+    "studentId": "18",
+    "date": "2024-05-18",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a19",
+    "studentId": "19",
+    "date": "2024-05-19",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a20",
+    "studentId": "20",
+    "date": "2024-05-20",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a21",
+    "studentId": "21",
+    "date": "2024-05-21",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a22",
+    "studentId": "22",
+    "date": "2024-05-22",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a23",
+    "studentId": "23",
+    "date": "2024-05-23",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a24",
+    "studentId": "24",
+    "date": "2024-05-24",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a25",
+    "studentId": "25",
+    "date": "2024-05-25",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a26",
+    "studentId": "26",
+    "date": "2024-05-26",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a27",
+    "studentId": "27",
+    "date": "2024-05-27",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a28",
+    "studentId": "28",
+    "date": "2024-05-28",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a29",
+    "studentId": "29",
+    "date": "2024-05-29",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a30",
+    "studentId": "30",
+    "date": "2024-05-30",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a31",
+    "studentId": "31",
+    "date": "2024-06-01",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a32",
+    "studentId": "32",
+    "date": "2024-06-02",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a33",
+    "studentId": "33",
+    "date": "2024-06-03",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a34",
+    "studentId": "34",
+    "date": "2024-06-04",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a35",
+    "studentId": "35",
+    "date": "2024-06-05",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a36",
+    "studentId": "36",
+    "date": "2024-06-06",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a37",
+    "studentId": "37",
+    "date": "2024-06-07",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a38",
+    "studentId": "38",
+    "date": "2024-06-08",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a39",
+    "studentId": "39",
+    "date": "2024-06-09",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a40",
+    "studentId": "40",
+    "date": "2024-06-10",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a41",
+    "studentId": "41",
+    "date": "2024-06-11",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a42",
+    "studentId": "42",
+    "date": "2024-06-12",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a43",
+    "studentId": "43",
+    "date": "2024-06-13",
+    "type": "absence",
+    "justified": true,
+    "comment": "Voyage familial"
+  },
+  {
+    "id": "a44",
+    "studentId": "44",
+    "date": "2024-06-14",
+    "type": "retard",
+    "justified": false,
+    "comment": "Trafic"
+  },
+  {
+    "id": "a45",
+    "studentId": "45",
+    "date": "2024-06-15",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a46",
+    "studentId": "46",
+    "date": "2024-06-16",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  },
+  {
+    "id": "a47",
+    "studentId": "47",
+    "date": "2024-06-17",
+    "type": "absence",
+    "justified": true,
+    "comment": "Maladie"
+  },
+  {
+    "id": "a48",
+    "studentId": "48",
+    "date": "2024-06-18",
+    "type": "retard",
+    "justified": false,
+    "comment": "Bus en retard"
+  },
+  {
+    "id": "a49",
+    "studentId": "49",
+    "date": "2024-06-19",
+    "type": "absence",
+    "justified": false,
+    "comment": "Sans justification"
+  },
+  {
+    "id": "a50",
+    "studentId": "50",
+    "date": "2024-06-20",
+    "type": "retard",
+    "justified": true,
+    "comment": "RDV médical"
+  }
+] 

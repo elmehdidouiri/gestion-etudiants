@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "studentId": "1",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "2",
+    "studentId": "2",
+    "amountDue": 2000,
+    "amountPaid": 1000,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Reste à payer pour le mois de mai."
+  },
+  {
+    "id": "3",
+    "studentId": "3",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "4",
+    "studentId": "4",
+    "amountDue": 2000,
+    "amountPaid": 0,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Aucun paiement reçu."
+  },
+  {
+    "id": "5",
+    "studentId": "5",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "6",
+    "studentId": "6",
+    "amountDue": 2000,
+    "amountPaid": 1500,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Reste 500 DH à payer."
+  },
+  {
+    "id": "7",
+    "studentId": "7",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "8",
+    "amountDue": 2000,
+    "amountPaid": 0,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "studentId": "8",
+    "description": "Aucun paiement reçu."
+  },
+  {
+    "id": "9",
+    "studentId": "9",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "10",
+    "studentId": "10",
+    "amountDue": 2000,
+    "amountPaid": 1000,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Reste à payer pour le mois de mai."
+  },
+  {
+    "id": "11",
+    "studentId": "11",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "12",
+    "studentId": "12",
+    "amountDue": 2000,
+    "amountPaid": 0,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Aucun paiement reçu."
+  },
+  {
+    "id": "13",
+    "studentId": "13",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "14",
+    "studentId": "14",
+    "amountDue": 2000,
+    "amountPaid": 2000,
+    "status": "payé",
+    "date": "2024-05-01",
+    "description": "Paiement complet du mois de mai."
+  },
+  {
+    "id": "15",
+    "studentId": "15",
+    "amountDue": 2000,
+    "amountPaid": 1000,
+    "status": "en retard",
+    "date": "2024-05-01",
+    "description": "Reste à payer pour le mois de mai."
+  }
+] 

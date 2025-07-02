@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "studentId": "1",
+    "subject": "Mathématiques",
+    "value": 16.5,
+    "appreciation": "Très bon travail",
+    "date": "2024-05-01"
+  },
+  {
+    "id": "2",
+    "studentId": "1",
+    "subject": "Français",
+    "value": 14.0,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-05-03"
+  },
+  {
+    "id": "3",
+    "studentId": "2",
+    "subject": "Mathématiques",
+    "value": 12.5,
+    "appreciation": "Doit participer davantage",
+    "date": "2024-05-01"
+  },
+  {
+    "id": "4",
+    "studentId": "2",
+    "subject": "Français",
+    "value": 17.0,
+    "appreciation": "Excellent",
+    "date": "2024-05-03"
+  },
+  {
+    "id": "5",
+    "studentId": "3",
+    "subject": "Mathématiques",
+    "value": 15.2,
+    "appreciation": "Bon travail",
+    "date": "2024-05-02"
+  },
+  {
+    "id": "6",
+    "studentId": "3",
+    "subject": "SVT",
+    "value": 13.8,
+    "appreciation": "Correct",
+    "date": "2024-05-04"
+  },
+  {
+    "id": "7",
+    "studentId": "4",
+    "subject": "Histoire",
+    "value": 16.0,
+    "appreciation": "Participation active",
+    "date": "2024-05-05"
+  },
+  {
+    "id": "8",
+    "studentId": "4",
+    "subject": "Anglais",
+    "value": 14.7,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-05-06"
+  },
+  {
+    "id": "9",
+    "studentId": "5",
+    "subject": "Mathématiques",
+    "value": 12.9,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-05-07"
+  },
+  {
+    "id": "10",
+    "studentId": "5",
+    "subject": "Français",
+    "value": 15.5,
+    "appreciation": "Bon effort",
+    "date": "2024-05-08"
+  },
+  {
+    "id": "11",
+    "studentId": "6",
+    "subject": "SVT",
+    "value": 18.0,
+    "appreciation": "Excellent",
+    "date": "2024-05-09"
+  },
+  {
+    "id": "12",
+    "studentId": "6",
+    "subject": "Mathématiques",
+    "value": 17.2,
+    "appreciation": "Très bon",
+    "date": "2024-05-10"
+  },
+  {
+    "id": "13",
+    "studentId": "7",
+    "subject": "Français",
+    "value": 13.4,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-05-11"
+  },
+  {
+    "id": "14",
+    "studentId": "7",
+    "subject": "Histoire",
+    "value": 15.8,
+    "appreciation": "Participation correcte",
+    "date": "2024-05-12"
+  },
+  {
+    "id": "15",
+    "studentId": "8",
+    "subject": "Anglais",
+    "value": 16.9,
+    "appreciation": "Très bon",
+    "date": "2024-05-13"
+  },
+  {
+    "id": "16",
+    "studentId": "8",
+    "subject": "Mathématiques",
+    "value": 14.3,
+    "appreciation": "Bon travail",
+    "date": "2024-05-14"
+  },
+  {
+    "id": "17",
+    "studentId": "9",
+    "subject": "Français",
+    "value": 15.7,
+    "appreciation": "Bon effort",
+    "date": "2024-05-15"
+  },
+  {
+    "id": "18",
+    "studentId": "9",
+    "subject": "SVT",
+    "value": 16.2,
+    "appreciation": "Excellent",
+    "date": "2024-05-16"
+  },
+  {
+    "id": "19",
+    "studentId": "10",
+    "subject": "Mathématiques",
+    "value": 13.1,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-05-17"
+  },
+  {
+    "id": "20",
+    "studentId": "10",
+    "subject": "Histoire",
+    "value": 14.8,
+    "appreciation": "Participation correcte",
+    "date": "2024-05-18"
+  },
+  {
+    "id": "21",
+    "studentId": "11",
+    "subject": "Anglais",
+    "value": 17.5,
+    "appreciation": "Très bon",
+    "date": "2024-05-19"
+  },
+  {
+    "id": "22",
+    "studentId": "11",
+    "subject": "Mathématiques",
+    "value": 15.9,
+    "appreciation": "Bon travail",
+    "date": "2024-05-20"
+  },
+  {
+    "id": "23",
+    "studentId": "12",
+    "subject": "Français",
+    "value": 14.2,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-05-21"
+  },
+  {
+    "id": "24",
+    "studentId": "12",
+    "subject": "SVT",
+    "value": 16.7,
+    "appreciation": "Excellent",
+    "date": "2024-05-22"
+  },
+  {
+    "id": "25",
+    "studentId": "13",
+    "subject": "Mathématiques",
+    "value": 13.6,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-05-23"
+  },
+  {
+    "id": "26",
+    "studentId": "13",
+    "subject": "Histoire",
+    "value": 15.2,
+    "appreciation": "Participation correcte",
+    "date": "2024-05-24"
+  },
+  {
+    "id": "27",
+    "studentId": "14",
+    "subject": "Anglais",
+    "value": 16.4,
+    "appreciation": "Très bon",
+    "date": "2024-05-25"
+  },
+  {
+    "id": "28",
+    "studentId": "14",
+    "subject": "Mathématiques",
+    "value": 14.7,
+    "appreciation": "Bon travail",
+    "date": "2024-05-26"
+  },
+  {
+    "id": "29",
+    "studentId": "15",
+    "subject": "Français",
+    "value": 15.3,
+    "appreciation": "Bon effort",
+    "date": "2024-05-27"
+  },
+  {
+    "id": "30",
+    "studentId": "15",
+    "subject": "SVT",
+    "value": 16.8,
+    "appreciation": "Excellent",
+    "date": "2024-05-28"
+  },
+  {
+    "id": "31",
+    "studentId": "16",
+    "subject": "Mathématiques",
+    "value": 13.2,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-05-29"
+  },
+  {
+    "id": "32",
+    "studentId": "16",
+    "subject": "Histoire",
+    "value": 14.9,
+    "appreciation": "Participation correcte",
+    "date": "2024-05-30"
+  },
+  {
+    "id": "33",
+    "studentId": "17",
+    "subject": "Anglais",
+    "value": 17.1,
+    "appreciation": "Très bon",
+    "date": "2024-06-01"
+  },
+  {
+    "id": "34",
+    "studentId": "17",
+    "subject": "Mathématiques",
+    "value": 15.6,
+    "appreciation": "Bon travail",
+    "date": "2024-06-02"
+  },
+  {
+    "id": "35",
+    "studentId": "18",
+    "subject": "Français",
+    "value": 14.1,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-06-03"
+  },
+  {
+    "id": "36",
+    "studentId": "18",
+    "subject": "SVT",
+    "value": 16.3,
+    "appreciation": "Excellent",
+    "date": "2024-06-04"
+  },
+  {
+    "id": "37",
+    "studentId": "19",
+    "subject": "Mathématiques",
+    "value": 13.7,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-06-05"
+  },
+  {
+    "id": "38",
+    "studentId": "19",
+    "subject": "Histoire",
+    "value": 15.4,
+    "appreciation": "Participation correcte",
+    "date": "2024-06-06"
+  },
+  {
+    "id": "39",
+    "studentId": "20",
+    "subject": "Anglais",
+    "value": 16.6,
+    "appreciation": "Très bon",
+    "date": "2024-06-07"
+  },
+  {
+    "id": "40",
+    "studentId": "20",
+    "subject": "Mathématiques",
+    "value": 14.5,
+    "appreciation": "Bon travail",
+    "date": "2024-06-08"
+  },
+  {
+    "id": "41",
+    "studentId": "21",
+    "subject": "Français",
+    "value": 15.8,
+    "appreciation": "Bon effort",
+    "date": "2024-06-09"
+  },
+  {
+    "id": "42",
+    "studentId": "21",
+    "subject": "SVT",
+    "value": 16.1,
+    "appreciation": "Excellent",
+    "date": "2024-06-10"
+  },
+  {
+    "id": "43",
+    "studentId": "22",
+    "subject": "Mathématiques",
+    "value": 13.3,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-06-11"
+  },
+  {
+    "id": "44",
+    "studentId": "22",
+    "subject": "Histoire",
+    "value": 15.0,
+    "appreciation": "Participation correcte",
+    "date": "2024-06-12"
+  },
+  {
+    "id": "45",
+    "studentId": "23",
+    "subject": "Anglais",
+    "value": 17.2,
+    "appreciation": "Très bon",
+    "date": "2024-06-13"
+  },
+  {
+    "id": "46",
+    "studentId": "23",
+    "subject": "Mathématiques",
+    "value": 15.5,
+    "appreciation": "Bon travail",
+    "date": "2024-06-14"
+  },
+  {
+    "id": "47",
+    "studentId": "24",
+    "subject": "Français",
+    "value": 14.4,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-06-15"
+  },
+  {
+    "id": "48",
+    "studentId": "24",
+    "subject": "SVT",
+    "value": 16.9,
+    "appreciation": "Excellent",
+    "date": "2024-06-16"
+  },
+  {
+    "id": "49",
+    "studentId": "25",
+    "subject": "Mathématiques",
+    "value": 13.8,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-06-17"
+  },
+  {
+    "id": "50",
+    "studentId": "25",
+    "subject": "Histoire",
+    "value": 15.1,
+    "appreciation": "Participation correcte",
+    "date": "2024-06-18"
+  },
+  {
+    "id": "51",
+    "studentId": "26",
+    "subject": "Anglais",
+    "value": 16.7,
+    "appreciation": "Très bon",
+    "date": "2024-06-19"
+  },
+  {
+    "id": "52",
+    "studentId": "26",
+    "subject": "Mathématiques",
+    "value": 14.6,
+    "appreciation": "Bon travail",
+    "date": "2024-06-20"
+  },
+  {
+    "id": "53",
+    "studentId": "27",
+    "subject": "Français",
+    "value": 15.4,
+    "appreciation": "Bon effort",
+    "date": "2024-06-21"
+  },
+  {
+    "id": "54",
+    "studentId": "27",
+    "subject": "SVT",
+    "value": 16.5,
+    "appreciation": "Excellent",
+    "date": "2024-06-22"
+  },
+  {
+    "id": "55",
+    "studentId": "28",
+    "subject": "Mathématiques",
+    "value": 13.9,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-06-23"
+  },
+  {
+    "id": "56",
+    "studentId": "28",
+    "subject": "Histoire",
+    "value": 15.7,
+    "appreciation": "Participation correcte",
+    "date": "2024-06-24"
+  },
+  {
+    "id": "57",
+    "studentId": "29",
+    "subject": "Anglais",
+    "value": 17.3,
+    "appreciation": "Très bon",
+    "date": "2024-06-25"
+  },
+  {
+    "id": "58",
+    "studentId": "29",
+    "subject": "Mathématiques",
+    "value": 15.3,
+    "appreciation": "Bon travail",
+    "date": "2024-06-26"
+  },
+  {
+    "id": "59",
+    "studentId": "30",
+    "subject": "Français",
+    "value": 14.5,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-06-27"
+  },
+  {
+    "id": "60",
+    "studentId": "30",
+    "subject": "SVT",
+    "value": 16.6,
+    "appreciation": "Excellent",
+    "date": "2024-06-28"
+  },
+  {
+    "id": "61",
+    "studentId": "31",
+    "subject": "Mathématiques",
+    "value": 13.4,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-06-29"
+  },
+  {
+    "id": "62",
+    "studentId": "31",
+    "subject": "Histoire",
+    "value": 15.8,
+    "appreciation": "Participation correcte",
+    "date": "2024-06-30"
+  },
+  {
+    "id": "63",
+    "studentId": "32",
+    "subject": "Anglais",
+    "value": 17.4,
+    "appreciation": "Très bon",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "64",
+    "studentId": "32",
+    "subject": "Mathématiques",
+    "value": 15.7,
+    "appreciation": "Bon travail",
+    "date": "2024-07-02"
+  },
+  {
+    "id": "65",
+    "studentId": "33",
+    "subject": "Français",
+    "value": 14.3,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-07-03"
+  },
+  {
+    "id": "66",
+    "studentId": "33",
+    "subject": "SVT",
+    "value": 16.8,
+    "appreciation": "Excellent",
+    "date": "2024-07-04"
+  },
+  {
+    "id": "67",
+    "studentId": "34",
+    "subject": "Mathématiques",
+    "value": 13.5,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-07-05"
+  },
+  {
+    "id": "68",
+    "studentId": "34",
+    "subject": "Histoire",
+    "value": 15.6,
+    "appreciation": "Participation correcte",
+    "date": "2024-07-06"
+  },
+  {
+    "id": "69",
+    "studentId": "35",
+    "subject": "Anglais",
+    "value": 17.5,
+    "appreciation": "Très bon",
+    "date": "2024-07-07"
+  },
+  {
+    "id": "70",
+    "studentId": "35",
+    "subject": "Mathématiques",
+    "value": 15.8,
+    "appreciation": "Bon travail",
+    "date": "2024-07-08"
+  },
+  {
+    "id": "71",
+    "studentId": "36",
+    "subject": "Français",
+    "value": 14.6,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-07-09"
+  },
+  {
+    "id": "72",
+    "studentId": "36",
+    "subject": "SVT",
+    "value": 16.2,
+    "appreciation": "Excellent",
+    "date": "2024-07-10"
+  },
+  {
+    "id": "73",
+    "studentId": "37",
+    "subject": "Mathématiques",
+    "value": 13.8,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-07-11"
+  },
+  {
+    "id": "74",
+    "studentId": "37",
+    "subject": "Histoire",
+    "value": 15.9,
+    "appreciation": "Participation correcte",
+    "date": "2024-07-12"
+  },
+  {
+    "id": "75",
+    "studentId": "38",
+    "subject": "Anglais",
+    "value": 17.6,
+    "appreciation": "Très bon",
+    "date": "2024-07-13"
+  },
+  {
+    "id": "76",
+    "studentId": "38",
+    "subject": "Mathématiques",
+    "value": 15.4,
+    "appreciation": "Bon travail",
+    "date": "2024-07-14"
+  },
+  {
+    "id": "77",
+    "studentId": "39",
+    "subject": "Français",
+    "value": 14.7,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-07-15"
+  },
+  {
+    "id": "78",
+    "studentId": "39",
+    "subject": "SVT",
+    "value": 16.3,
+    "appreciation": "Excellent",
+    "date": "2024-07-16"
+  },
+  {
+    "id": "79",
+    "studentId": "40",
+    "subject": "Mathématiques",
+    "value": 13.9,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-07-17"
+  },
+  {
+    "id": "80",
+    "studentId": "40",
+    "subject": "Histoire",
+    "value": 15.5,
+    "appreciation": "Participation correcte",
+    "date": "2024-07-18"
+  },
+  {
+    "id": "81",
+    "studentId": "41",
+    "subject": "Anglais",
+    "value": 17.7,
+    "appreciation": "Très bon",
+    "date": "2024-07-19"
+  },
+  {
+    "id": "82",
+    "studentId": "41",
+    "subject": "Mathématiques",
+    "value": 15.6,
+    "appreciation": "Bon travail",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "83",
+    "studentId": "42",
+    "subject": "Français",
+    "value": 14.8,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-07-21"
+  },
+  {
+    "id": "84",
+    "studentId": "42",
+    "subject": "SVT",
+    "value": 16.4,
+    "appreciation": "Excellent",
+    "date": "2024-07-22"
+  },
+  {
+    "id": "85",
+    "studentId": "43",
+    "subject": "Mathématiques",
+    "value": 13.7,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-07-23"
+  },
+  {
+    "id": "86",
+    "studentId": "43",
+    "subject": "Histoire",
+    "value": 15.3,
+    "appreciation": "Participation correcte",
+    "date": "2024-07-24"
+  },
+  {
+    "id": "87",
+    "studentId": "44",
+    "subject": "Anglais",
+    "value": 17.8,
+    "appreciation": "Très bon",
+    "date": "2024-07-25"
+  },
+  {
+    "id": "88",
+    "studentId": "44",
+    "subject": "Mathématiques",
+    "value": 15.5,
+    "appreciation": "Bon travail",
+    "date": "2024-07-26"
+  },
+  {
+    "id": "89",
+    "studentId": "45",
+    "subject": "Français",
+    "value": 14.9,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-07-27"
+  },
+  {
+    "id": "90",
+    "studentId": "45",
+    "subject": "SVT",
+    "value": 16.1,
+    "appreciation": "Excellent",
+    "date": "2024-07-28"
+  },
+  {
+    "id": "91",
+    "studentId": "46",
+    "subject": "Mathématiques",
+    "value": 13.6,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-07-29"
+  },
+  {
+    "id": "92",
+    "studentId": "46",
+    "subject": "Histoire",
+    "value": 15.2,
+    "appreciation": "Participation correcte",
+    "date": "2024-07-30"
+  },
+  {
+    "id": "93",
+    "studentId": "47",
+    "subject": "Anglais",
+    "value": 17.9,
+    "appreciation": "Très bon",
+    "date": "2024-07-31"
+  },
+  {
+    "id": "94",
+    "studentId": "47",
+    "subject": "Mathématiques",
+    "value": 15.3,
+    "appreciation": "Bon travail",
+    "date": "2024-08-01"
+  },
+  {
+    "id": "95",
+    "studentId": "48",
+    "subject": "Français",
+    "value": 14.7,
+    "appreciation": "Peut mieux faire",
+    "date": "2024-08-02"
+  },
+  {
+    "id": "96",
+    "studentId": "48",
+    "subject": "SVT",
+    "value": 16.5,
+    "appreciation": "Excellent",
+    "date": "2024-08-03"
+  },
+  {
+    "id": "97",
+    "studentId": "49",
+    "subject": "Mathématiques",
+    "value": 13.8,
+    "appreciation": "Doit s'appliquer",
+    "date": "2024-08-04"
+  },
+  {
+    "id": "98",
+    "studentId": "49",
+    "subject": "Histoire",
+    "value": 15.4,
+    "appreciation": "Participation correcte",
+    "date": "2024-08-05"
+  },
+  {
+    "id": "99",
+    "studentId": "50",
+    "subject": "Anglais",
+    "value": 17.2,
+    "appreciation": "Très bon",
+    "date": "2024-08-06"
+  },
+  {
+    "id": "100",
+    "studentId": "50",
+    "subject": "Mathématiques",
+    "value": 15.7,
+    "appreciation": "Bon travail",
+    "date": "2024-08-07"
+  }
+] 

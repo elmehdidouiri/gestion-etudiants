@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "class": "6A",
+    "day": "Lundi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Mathématiques",
+    "teacher": "Mme Dupont",
+    "room": "101"
+  },
+  {
+    "id": "2",
+    "class": "6A",
+    "day": "Lundi",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "subject": "Français",
+    "teacher": "M. Martin",
+    "room": "102"
+  },
+  {
+    "id": "3",
+    "class": "6A",
+    "day": "Mardi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "SVT",
+    "teacher": "Mme Leroy",
+    "room": "103"
+  },
+  {
+    "id": "4",
+    "class": "5B",
+    "day": "Lundi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Anglais",
+    "teacher": "Mme Smith",
+    "room": "201"
+  },
+  {
+    "id": "5",
+    "class": "5B",
+    "day": "Mardi",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "subject": "Mathématiques",
+    "teacher": "M. Laurent",
+    "room": "202"
+  },
+  {
+    "id": "6",
+    "class": "6B",
+    "day": "Lundi",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "subject": "Histoire",
+    "teacher": "Mme Petit",
+    "room": "104"
+  },
+  {
+    "id": "7",
+    "class": "6B",
+    "day": "Mardi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Français",
+    "teacher": "M. Bernard",
+    "room": "105"
+  },
+  {
+    "id": "8",
+    "class": "5A",
+    "day": "Lundi",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "subject": "SVT",
+    "teacher": "Mme Leroy",
+    "room": "203"
+  },
+  {
+    "id": "9",
+    "class": "5A",
+    "day": "Mardi",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "subject": "Anglais",
+    "teacher": "Mme Smith",
+    "room": "204"
+  },
+  {
+    "id": "10",
+    "class": "6A",
+    "day": "Mercredi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Histoire",
+    "teacher": "M. Bernard",
+    "room": "106"
+  },
+  {
+    "id": "11",
+    "class": "4A",
+    "day": "Lundi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Mathématiques",
+    "teacher": "Mme Dubois",
+    "room": "301"
+  },
+  {
+    "id": "12",
+    "class": "4A",
+    "day": "Mardi",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "subject": "Français",
+    "teacher": "M. Petit",
+    "room": "302"
+  },
+  {
+    "id": "13",
+    "class": "4B",
+    "day": "Jeudi",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "subject": "SVT",
+    "teacher": "Mme Leroy",
+    "room": "303"
+  },
+  {
+    "id": "14",
+    "class": "5C",
+    "day": "Vendredi",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "subject": "Anglais",
+    "teacher": "Mme Smith",
+    "room": "401"
+  },
+  {
+    "id": "15",
+    "class": "6C",
+    "day": "Lundi",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "subject": "Mathématiques",
+    "teacher": "M. Laurent",
+    "room": "501"
+  },
+  {
+    "id": "16",
+    "class": "3A",
+    "day": "Mardi",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "subject": "Histoire",
+    "teacher": "Mme Petit",
+    "room": "601"
+  },
+  {
+    "id": "17",
+    "class": "3B",
+    "day": "Jeudi",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "subject": "Français",
+    "teacher": "M. Bernard",
+    "room": "701"
+  }
+] 
