@@ -11,7 +11,6 @@ import { addGrade, updateGrade, deleteGrade } from "../services/gradeService";
 import { toast } from "react-toastify";
 import { getSchedule } from "../services/scheduleService";
 import { ScheduleEntry } from "../types/ScheduleEntry";
-import { Payment } from "../types/Payment";
 
 const subjects = ["Mathématiques", "Français", "Histoire", "SVT", "Anglais"];
 
