@@ -9,7 +9,6 @@ const Login: React.FC = () => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
-  const adminExists = Boolean(localStorage.getItem("admin"));
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -71,7 +70,7 @@ const Login: React.FC = () => {
           </g>
         </svg>
       </div>
-      <form onSubmit={handleSubmit} className="relative z-10 bg-white/90 backdrop-blur-md p-8 rounded-2xl shadow-2xl w-full max-w-sm space-y-6 border border-blue-100 animate-fade-in">
+      <form onSubmit={handleSubmit} className="relative z-10 bg-white/90 backdrop-blur-md p-12 rounded-3xl shadow-2xl w-full max-w-lg space-y-6 border border-blue-100 animate-fade-in">
         <div className="flex flex-col items-center gap-2">
           <LockClosedIcon className="h-10 w-10 text-blue-600 animate-bounce-slow" />
           <h1 className="text-3xl font-extrabold text-blue-700 tracking-tight">Connexion</h1>
@@ -83,7 +82,6 @@ const Login: React.FC = () => {
           value={username}
           onChange={e => setUsername(e.target.value)}
           className="border border-blue-200 rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 focus:outline-none transition text-blue-700 placeholder-blue-300"
-          required
         />
         <input
           type="password"
@@ -91,14 +89,17 @@ const Login: React.FC = () => {
           value={password}
           onChange={e => setPassword(e.target.value)}
           className="border border-blue-200 rounded-lg px-3 py-2 w-full focus:ring-2 focus:ring-blue-400 focus:outline-none transition text-blue-700 placeholder-blue-300"
-          required
         />
         <button type="submit" className="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-blue-700 to-blue-500 text-white py-2 rounded-lg font-semibold shadow hover:scale-105 hover:shadow-xl transition-all duration-200 focus:ring-2 focus:ring-blue-400">
           <LockClosedIcon className="h-5 w-5" /> Se connecter
         </button>
-        {!adminExists && (
-          <button type="button" className="w-full flex items-center justify-center gap-2 bg-gradient-to-r from-blue-100 to-blue-300 text-blue-700 py-2 rounded-lg font-semibold shadow hover:scale-105 hover:shadow-xl transition-all duration-200 focus:ring-2 focus:ring-blue-400 border border-blue-200" onClick={() => navigate("/register-admin")}> <UserPlusIcon className="h-5 w-5 text-blue-600" /> <span className="text-blue-700">S'inscrire</span></button>
-        )}
+        <button
+          type="button"
+          className="w-full flex items-center justify-center gap-2 bg-white text-blue-700 py-2 rounded-full text-lg font-semibold shadow border border-blue-400 hover:bg-blue-50 transition-all duration-200 focus:ring-2 focus:ring-blue-400 mt-2"
+          onClick={() => navigate("/register-admin")}
+        >
+          <UserPlusIcon className="h-5 w-5 text-blue-700" /> S'inscrire
+        </button>
       </form>
       {/* Animation CSS pour le gradient */}
       <style>{`
