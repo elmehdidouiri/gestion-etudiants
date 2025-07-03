@@ -23,6 +23,15 @@ const PrivateRoute: React.FC<{ children: React.ReactNode }> = ({ children }) => 
   return <>{children}</>;
 };
 
+const GlobalFooter: React.FC = () => (
+  <footer className="w-full bg-blue-400 text-white text-center py-4 mt-8 shadow-inner">
+    <div className="flex flex-col md:flex-row items-center justify-between px-4 gap-2">
+      <span className="font-semibold">&copy; {new Date().getFullYear()} École Privée - Gestion Scolaire</span>
+      <span className="text-sm opacity-80">Design & développement par El Mehdi Douiri</span>
+    </div>
+  </footer>
+);
+
 const App: React.FC = () => {
   return (
     <AuthProvider>
@@ -50,6 +59,7 @@ const App: React.FC = () => {
           {/* 404 */}
           <Route path="*" element={<div className="p-8 text-center text-xl">Page non trouvée</div>} />
         </Routes>
+        <GlobalFooter />
       </Router>
     </AuthProvider>
   );

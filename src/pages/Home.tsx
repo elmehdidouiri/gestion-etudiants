@@ -50,6 +50,10 @@ const Home: React.FC = () => {
           </button>
         </div>
       </main>
+      <footer className="w-full bg-white/80 text-center py-4 text-gray-600 text-sm border-t border-blue-100 mt-auto">
+        © {new Date().getFullYear()} EduManager. Tous droits réservés.<br />
+        <span className="text-xs italic text-gray-400">Design & development by El Mehdi Douiri</span>
+      </footer>
     </div>
   );
 };

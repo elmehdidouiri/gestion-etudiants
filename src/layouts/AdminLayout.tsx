@@ -117,12 +117,6 @@ const AdminLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           </div>
         </header>
         <main className="flex-1 p-6 pt-8">{children}</main>
-        <footer className="w-full bg-blue-400 text-white text-center py-4 mt-8 shadow-inner">
-          <div className="flex flex-col md:flex-row items-center justify-between px-4 gap-2">
-            <span className="font-semibold">&copy; {new Date().getFullYear()} École Privée - Gestion Scolaire</span>
-            <span className="text-sm opacity-80">Design & développement par El Mehdi Douiri</span>
-          </div>
-        </footer>
       </div>
       <style>{`
         @keyframes fade-in-down {
